@@ -1,5 +1,5 @@
 # corridaconscientizadora
-Jogo gratuito para apoio na conscientização sobre os perigos do aedes aegypti. O jogo foi desenvolvido como parte de um trabalho com os alunos responsáveis na Instituição Federal do Triângulo Mineiro - Campus Patrocínio.
+Jogo gratuito para apoio na conscientização sobre os perigos do aedes aegypti. O jogo foi desenvolvido como parte de um trabalho com os alunos responsáveis no Instituto Federal do Triângulo Mineiro - Campus Patrocínio.
 
 Sinta-se convidado a colaborar com o projeto!
 
