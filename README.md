@@ -2,6 +2,7 @@
 Jogo gratuito para apoio na conscientização sobre os perigos do aedes aegypti. O jogo foi desenvolvido como parte de um trabalho com os alunos responsáveis no Instituto Federal do Triângulo Mineiro - Campus Patrocínio.
 
 O jogo foi aplicado em escolas municipais junto a palestras sobre o tema de combate ao aedes aegipty.
+No jogo simples, você assume o papel de um garoto que deve se esquivar de mosquitos enquanto busca remover da cidade pontos de acumulação de água parada, como pneus.
 
 Sinta-se convidado a colaborar com o projeto!
 
